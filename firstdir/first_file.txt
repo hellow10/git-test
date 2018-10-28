@@ -5,3 +5,5 @@ now i changed it
 now there's more here
 
 this text will has been merged to master
+
+This text definitely will conflict with master's
