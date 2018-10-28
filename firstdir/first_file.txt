@@ -3,3 +3,5 @@ sample text
 now i changed it
 
 now there's more here
+
+this text is from mybranch only
