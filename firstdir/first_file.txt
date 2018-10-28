@@ -6,4 +6,4 @@ now there's more here
 
 this text will has been merged to master
 
-this text should have conflicts with another branch's one
+This text definitely will conflict with master's but it'll be solved with git
